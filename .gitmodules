@@ -1,0 +1,8 @@
+[submodule "nrighar"]
+	path = nrighar
+	url = https://github.com/3pandalabs/nrighar.git
+	branch = main
+[submodule "receiptcash"]
+	path = receiptcash
+	url = https://github.com/3pandalabs/receiptcash.git
+	branch = main
